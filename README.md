@@ -2,12 +2,6 @@
 
 Одностраничный сайт, оформленный в виде карточек с описаниями этапов прохождения блока курса «Вёрстка».
 
-![image](https://github.com/lama2x2/zakrivayuschiy-teg-ad)
-
-
-## Деплой проекта
-[ссылка](https://github.com/lama2x2/zakrivayuschiy-teg-ad)
-
 ## Используемые технологии
 - HTML
 - CSS
