@@ -6,7 +6,7 @@
 
 
 ## Деплой проекта
-[ссылка](https://lama2x2.github.io/zakrivayuschiy-teg-ad/)
+[ссылка](https://github.com/lama2x2/zakrivayuschiy-teg-ad)
 
 ## Используемые технологии
 - HTML
