@@ -2,7 +2,7 @@
 
 Одностраничный сайт, оформленный в виде карточек с описаниями этапов прохождения блока курса «Вёрстка».
 
-![image](https://github.com/lama2x2/zakrivayuschiy-teg-f/assets/38656496/62cc7697-7218-429f-adeb-d12733c92b8e)
+![image](https://github.com/lama2x2/zakrivayuschiy-teg-ad)
 
 
 ## Деплой проекта
